@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822558696000",
+    "project_id": "mylocations-aa143",
+    "storage_bucket": "mylocations-aa143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822558696000:android:b22f55fd1629c0621735a5",
+        "android_client_info": {
+          "package_name": "com.mohamedosama.my_locations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822558696000-3ug3dpfte0o3b10d7eron1n31pa632u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcu2j7WxJ9Rv0bLTJjrNocJEdslMMNZhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822558696000-3ug3dpfte0o3b10d7eron1n31pa632u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
